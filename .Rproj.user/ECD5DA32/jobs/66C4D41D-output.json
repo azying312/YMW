@@ -1,0 +1,7 @@
+[1,"Installing 'labelled' ...\n"]
+[2,"trying URL 'https://cran.rstudio.com/bin/macosx/big-sur-arm64/contrib/4.4/labelled_2.14.1.tgz'\n"]
+[2,"Content type 'application/x-gzip' length 345267 bytes (337 KB)\n========="]
+[2,"=========================================\ndownloaded 337 KB\n\n"]
+[1,"The downloaded binary packages are in\n"]
+[1,"\t/var/folders/r0/138bqx1j4xdcw6s3m0cdn5cr0000gn/T//Rtmp7uQmSc/downloaded_packages\n"]
+[2,"\n\n✔ Package 'labelled' successfully installed.\n"]
